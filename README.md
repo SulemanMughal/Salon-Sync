@@ -10,10 +10,6 @@
 - **Persistent Storage:** Uses SQLite database to store and retrieve all booking data.
 - **User-Friendly Interface:** Modern and clean GUI with color themes, dropdowns, and easy navigation.
 
-## Screenshots
-
-*(Add screenshots of the main booking window and bookings list here if available)*
-
 ## Getting Started
 
 ### Prerequisites
